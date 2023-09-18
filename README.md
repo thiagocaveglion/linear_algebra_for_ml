@@ -1,4 +1,4 @@
-# Algebra Linear e Otimização com Aplicações para Machine Learning - Volume I
+# Álgebra Linear e Otimização com Aplicações para Machine Learning - Volume I
 Estudo do livro "Linear algebra for Computer Vision, Robotics and Machine Learning" de Jean Gallier e Jocelyn Quaintance, majoritariamente utilizando jupyter notebook
 ## Estrutura
 Os arquivos estão organizados por capítulos, tal que cada capítulo é representado por uma pasta com subpastas contendo outros arquivos necessários

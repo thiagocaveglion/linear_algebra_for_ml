@@ -5,7 +5,7 @@ Os arquivos estão organizados por capítulos, tal que cada capítulo é represe
 ## Método
 O approach ao livro tem intuito educacional, com alterações verbais em alguns momentos do livro
 ## Bibliotecas
-Conforme utilizadas, será indicada a instalação de determinadas bibliotecas
+Conforme utilizadas, serão indicadas as instalações de determinadas bibliotecas
 ## 
 ![image](https://github.com/thiagocaveglion/linear_algebra_for_ml/assets/107949964/1c1b42a8-09a5-4a03-9723-72167206d2c0)
 
